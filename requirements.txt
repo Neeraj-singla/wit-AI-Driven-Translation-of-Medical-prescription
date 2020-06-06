@@ -1,0 +1,8 @@
+nltk
+ibm-watson
+ibm-whcs-sdk
+pandas
+numpy
+scikit-learn
+spacy
+xlrd

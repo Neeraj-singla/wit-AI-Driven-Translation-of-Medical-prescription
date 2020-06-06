@@ -47,7 +47,7 @@ Solution includes NLP/Machine Learning based techniques to provide value to phar
 
 ## Project roadmap
 
-![Roadmap](roadmap.jpg)
+![Roadmap](roadmap.PNG)
 
 ## Getting started
 
